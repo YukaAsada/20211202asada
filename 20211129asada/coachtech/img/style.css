@@ -1,0 +1,54 @@
+body {
+  width: 100%;
+}
+p.sample {
+  font-family: "Gorditas", cursive;
+  font-size: 60px;
+}
+h2.conpany {
+  font-family: "Noto Serif JP", serif;
+}
+
+a.trial-btn {
+  width: 200px;
+  padding: 10px, 0px;
+  color: rgb(252, 248, 248);
+  background: liner-gradient(90deg, #ff5800, #8b00be);
+  box-shadow: 0 5px 0 rgba(34, 22, 22, 0.2);
+  border-radius: 30px;
+  margin: 100px, auto 0;
+  text-align: center;
+  display: block;
+}
+
+div.card　 {
+  width: 360px;
+  margin: 100px, auto 0;
+  box-sizing: 360px;
+}
+img {
+  width: 360px;
+}
+.cat-card {
+  text-align: center;
+  font-size: 14px;
+  background-color: #008888;
+  width: 100px;
+  color: #ffffff;
+  content: 30px;
+  margin: 10px;
+}
+.breakfast {
+  font-size: 15px;
+  width: 100%;
+}
+.card-content-tag {
+  margin: 10px;
+  width: 50%;
+  font-size: 12px;
+}
+.card-content-date {
+  margin: 10;
+  width: 50%;
+  font-size: 12px;
+}
